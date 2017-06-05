@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaterialFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="Registrar">Registrar Labiales</string>
+    <string name="idLabial">Código</string>
+    <string name="marca">Marca</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="mensaje_error_id">Digite el ID</string>
+    <string name="mensaje_error_marca">Digite la marca</string>
+    <string name="mensaje_error_precio">Digite el precio</string>
+    <string name="mensaje_exitoso_guardar">Producto Guardada Exitosamente!!</string>
+</resources>

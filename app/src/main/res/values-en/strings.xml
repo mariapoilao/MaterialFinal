@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaterialFinal</string>
+    <string name="Registrar">LipTint Register</string>
+    <string name="borrar">Clear</string>
+    <string name="guardar">Save</string>
+    <string name="idLabial">Code</string>
+    <string name="marca">Brand</string>
+    <string name="mensaje_error_id">Type the ID</string>
+    <string name="mensaje_error_marca">Type Brand</string>
+    <string name="mensaje_error_precio">Type Price</string>
+    <string name="mensaje_exitoso_guardar">Save succesfull!</string>
+    <string name="precio">Price</string>
+</resources>
